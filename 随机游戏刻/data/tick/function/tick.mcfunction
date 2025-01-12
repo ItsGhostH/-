@@ -1,1 +1,0 @@
-execute if entity @a if score 开始游戏 tick_main matches 1 run function tick:playing
